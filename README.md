@@ -15,6 +15,10 @@ An independent study applying financial-engineering risk methods to the Saudi Ex
 - **Gaussian VaR fails the backtest.** 99% Normal VaR is rejected by Kupiec for 7/7 series (1.6–2.2% exceedances), rolling historical VaR for 5/7, and **GJR-GARCH-t for 0/7** (0.71–1.47%), with no significant exceedance clustering.
 - **Drawdowns.** The deepest was Energy at −56.3% (2015–16). Utilities is 43.5% below its peak at the end of the sample and has not recovered.
 
+## Working paper
+
+**[Volatility, Correlation Regimes and Value-at-Risk in Saudi Equity Sectors, 2015–2026](reports/tadawul_sector_risk_working_paper.pdf)** (PDF). Amir Khan, Independent Researcher. Working paper, October 2026. Every number in the paper comes from the files in `reports/tables/`.
+
 ## Figures
 | | |
 |---|---|

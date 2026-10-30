@@ -1,0 +1,30 @@
+{
+  "source": "Yahoo Finance via yfinance (auto_adjust=True: split/dividend-adjusted close)",
+  "downloaded_at_utc": "2026-10-30T12:54:01+00:00",
+  "start": "2015-01-01",
+  "tickers": {
+    "1120.SR": "Al Rajhi Bank",
+    "1180.SR": "Saudi National Bank",
+    "1010.SR": "Riyad Bank",
+    "1150.SR": "Alinma Bank",
+    "1060.SR": "Saudi Awwal Bank (SAB)",
+    "2010.SR": "SABIC",
+    "1211.SR": "Ma'aden",
+    "2020.SR": "SABIC Agri-Nutrients",
+    "2350.SR": "Saudi Kayan",
+    "2222.SR": "Saudi Aramco",
+    "2380.SR": "Petro Rabigh",
+    "4030.SR": "Bahri",
+    "2030.SR": "SARCO",
+    "7010.SR": "stc",
+    "7020.SR": "Mobily",
+    "7030.SR": "Zain KSA",
+    "2280.SR": "Almarai",
+    "2050.SR": "Savola",
+    "5110.SR": "Saudi Electricity",
+    "2082.SR": "ACWA Power",
+    "KSA": "KSA",
+    "BZ=F": "BZ=F"
+  },
+  "rows": 3661
+}

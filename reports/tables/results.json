@@ -1,0 +1,54 @@
+{
+  "sample": {
+    "start": "2015-01-04",
+    "end": "2026-10-29",
+    "n_days": 2978,
+    "n_weeks": 608
+  },
+  "peak_covid_gjr_vol_%": {
+    "Banks": 87.4,
+    "Materials": 77.0,
+    "Energy": 82.5,
+    "Telecom": 78.7,
+    "Food & Staples": 81.7,
+    "Utilities": 91.5,
+    "LargeCap EW": 76.8
+  },
+  "peak_covid_gjr_vol_date": {
+    "Banks": "2020-03-10",
+    "Materials": "2020-03-10",
+    "Energy": "2020-03-11",
+    "Telecom": "2020-03-11",
+    "Food & Staples": "2020-03-11",
+    "Utilities": "2020-05-04",
+    "LargeCap EW": "2020-03-10"
+  },
+  "median_gjr_vol_%": {
+    "Banks": 17.2,
+    "Materials": 19.1,
+    "Energy": 19.3,
+    "Telecom": 18.0,
+    "Food & Staples": 21.3,
+    "Utilities": 24.9,
+    "LargeCap EW": 13.8
+  },
+  "latest_gjr_vol_%": {
+    "Banks": 24.9,
+    "Materials": 36.5,
+    "Energy": 32.2,
+    "Telecom": 23.4,
+    "Food & Staples": 28.2,
+    "Utilities": 40.7,
+    "LargeCap EW": 25.3
+  },
+  "figures": [
+    "01_growth.png",
+    "02_gjr_conditional_vol.png",
+    "03_rolling_corr_market.png",
+    "04_rolling_corr_brent.png",
+    "05_drawdowns.png",
+    "06_var_backtest_market.png",
+    "07_kupiec_heatmap.png",
+    "08_regime_corr_heatmaps.png"
+  ]
+}
